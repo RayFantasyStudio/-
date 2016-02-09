@@ -1,0 +1,157 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\qweas\Desktop\ZprogrammerTool\app\src\main\AndroidManifest.xml:2:1-47:12
+	package
+		ADDED from C:\Users\qweas\Desktop\ZprogrammerTool\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from C:\Users\qweas\Desktop\ZprogrammerTool\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\qweas\Desktop\ZprogrammerTool\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\qweas\Desktop\ZprogrammerTool\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\qweas\Desktop\ZprogrammerTool\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\qweas\Desktop\ZprogrammerTool\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\qweas\Desktop\ZprogrammerTool\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\qweas\Desktop\ZprogrammerTool\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\qweas\Desktop\ZprogrammerTool\app\src\main\AndroidManifest.xml:5:5-75
+	android:name
+		ADDED from C:\Users\qweas\Desktop\ZprogrammerTool\app\src\main\AndroidManifest.xml:5:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\qweas\Desktop\ZprogrammerTool\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from C:\Users\qweas\Desktop\ZprogrammerTool\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\qweas\Desktop\ZprogrammerTool\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from C:\Users\qweas\Desktop\ZprogrammerTool\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\qweas\Desktop\ZprogrammerTool\app\src\main\AndroidManifest.xml:8:5-76
+	android:name
+		ADDED from C:\Users\qweas\Desktop\ZprogrammerTool\app\src\main\AndroidManifest.xml:8:22-73
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\qweas\Desktop\ZprogrammerTool\app\src\main\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from C:\Users\qweas\Desktop\ZprogrammerTool\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.READ_LOGS
+ADDED from C:\Users\qweas\Desktop\ZprogrammerTool\app\src\main\AndroidManifest.xml:10:5-68
+	android:name
+		ADDED from C:\Users\qweas\Desktop\ZprogrammerTool\app\src\main\AndroidManifest.xml:10:22-65
+application
+ADDED from C:\Users\qweas\Desktop\ZprogrammerTool\app\src\main\AndroidManifest.xml:12:5-45:19
+MERGED from [com.android.support:appcompat-v7:23.0.0] C:\Users\qweas\Desktop\ZprogrammerTool\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\qweas\Desktop\ZprogrammerTool\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\qweas\Desktop\ZprogrammerTool\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.melnykov:floatingactionbutton:1.3.0] C:\Users\qweas\Desktop\ZprogrammerTool\app\build\intermediates\exploded-aar\com.melnykov\floatingactionbutton\1.3.0\AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:recyclerview-v7:21.0.3] C:\Users\qweas\Desktop\ZprogrammerTool\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\AndroidManifest.xml:17:5-19:19
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\qweas\Desktop\ZprogrammerTool\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:23.0.0] C:\Users\qweas\Desktop\ZprogrammerTool\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] C:\Users\qweas\Desktop\ZprogrammerTool\app\build\intermediates\exploded-aar\com.balysv.materialmenu\material-menu-toolbar\1.5.4\AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.0] C:\Users\qweas\Desktop\ZprogrammerTool\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\qweas\Desktop\ZprogrammerTool\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] C:\Users\qweas\Desktop\ZprogrammerTool\app\build\intermediates\exploded-aar\com.balysv.materialmenu\material-menu\1.5.4\AndroidManifest.xml:12:5-20
+MERGED from [de.psdev.licensesdialog:licensesdialog:1.8.0] C:\Users\qweas\Desktop\ZprogrammerTool\app\build\intermediates\exploded-aar\de.psdev.licensesdialog\licensesdialog\1.8.0\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\qweas\Desktop\ZprogrammerTool\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.0] C:\Users\qweas\Desktop\ZprogrammerTool\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\qweas\Desktop\ZprogrammerTool\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\qweas\Desktop\ZprogrammerTool\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.0] C:\Users\qweas\Desktop\ZprogrammerTool\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\qweas\Desktop\ZprogrammerTool\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.tencent.bugly:crashreport:1.2.3.8] C:\Users\qweas\Desktop\ZprogrammerTool\app\build\intermediates\exploded-aar\com.tencent.bugly\crashreport\1.2.3.8\AndroidManifest.xml:11:5-12:19
+	android:label
+		ADDED from C:\Users\qweas\Desktop\ZprogrammerTool\app\src\main\AndroidManifest.xml:16:9-41
+	android:allowBackup
+		ADDED from C:\Users\qweas\Desktop\ZprogrammerTool\app\src\main\AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from C:\Users\qweas\Desktop\ZprogrammerTool\app\src\main\AndroidManifest.xml:15:9-45
+	android:theme
+		ADDED from C:\Users\qweas\Desktop\ZprogrammerTool\app\src\main\AndroidManifest.xml:17:9-40
+	android:name
+		ADDED from C:\Users\qweas\Desktop\ZprogrammerTool\app\src\main\AndroidManifest.xml:13:9-38
+activity#com.zprogrammer.tool.ui.Views
+ADDED from C:\Users\qweas\Desktop\ZprogrammerTool\app\src\main\AndroidManifest.xml:18:9-19:20
+	android:name
+		ADDED from C:\Users\qweas\Desktop\ZprogrammerTool\app\src\main\AndroidManifest.xml:18:19-43
+activity#cn.bmob.v3.update.UpdateDialogActivity
+ADDED from C:\Users\qweas\Desktop\ZprogrammerTool\app\src\main\AndroidManifest.xml:20:9-22:75
+	android:theme
+		ADDED from C:\Users\qweas\Desktop\ZprogrammerTool\app\src\main\AndroidManifest.xml:22:13-72
+	android:name
+		ADDED from C:\Users\qweas\Desktop\ZprogrammerTool\app\src\main\AndroidManifest.xml:21:13-66
+activity#com.zprogrammer.tool.ui.MainActivity
+ADDED from C:\Users\qweas\Desktop\ZprogrammerTool\app\src\main\AndroidManifest.xml:23:9-32:20
+	android:launchMode
+		ADDED from C:\Users\qweas\Desktop\ZprogrammerTool\app\src\main\AndroidManifest.xml:25:13-44
+	android:theme
+		ADDED from C:\Users\qweas\Desktop\ZprogrammerTool\app\src\main\AndroidManifest.xml:26:13-49
+	android:name
+		ADDED from C:\Users\qweas\Desktop\ZprogrammerTool\app\src\main\AndroidManifest.xml:24:13-44
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\qweas\Desktop\ZprogrammerTool\app\src\main\AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\qweas\Desktop\ZprogrammerTool\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from C:\Users\qweas\Desktop\ZprogrammerTool\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\qweas\Desktop\ZprogrammerTool\app\src\main\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from C:\Users\qweas\Desktop\ZprogrammerTool\app\src\main\AndroidManifest.xml:30:27-74
+activity#com.zprogrammer.tool.ui.NewActivity
+ADDED from C:\Users\qweas\Desktop\ZprogrammerTool\app\src\main\AndroidManifest.xml:33:9-36:71
+	android:label
+		ADDED from C:\Users\qweas\Desktop\ZprogrammerTool\app\src\main\AndroidManifest.xml:35:13-48
+	android:windowSoftInputMode
+		ADDED from C:\Users\qweas\Desktop\ZprogrammerTool\app\src\main\AndroidManifest.xml:36:13-68
+	android:name
+		ADDED from C:\Users\qweas\Desktop\ZprogrammerTool\app\src\main\AndroidManifest.xml:34:13-43
+activity#com.zprogrammer.tool.ui.FindActivity
+ADDED from C:\Users\qweas\Desktop\ZprogrammerTool\app\src\main\AndroidManifest.xml:37:9-53
+	android:name
+		ADDED from C:\Users\qweas\Desktop\ZprogrammerTool\app\src\main\AndroidManifest.xml:37:19-50
+activity#com.zprogrammer.tool.ui.SearchActivity
+ADDED from C:\Users\qweas\Desktop\ZprogrammerTool\app\src\main\AndroidManifest.xml:38:9-40:61
+	android:label
+		ADDED from C:\Users\qweas\Desktop\ZprogrammerTool\app\src\main\AndroidManifest.xml:40:13-58
+	android:name
+		ADDED from C:\Users\qweas\Desktop\ZprogrammerTool\app\src\main\AndroidManifest.xml:39:13-46
+activity#com.zprogrammer.tool.ui.EditActivity
+ADDED from C:\Users\qweas\Desktop\ZprogrammerTool\app\src\main\AndroidManifest.xml:41:9-44:20
+	android:label
+		ADDED from C:\Users\qweas\Desktop\ZprogrammerTool\app\src\main\AndroidManifest.xml:43:13-56
+	android:name
+		ADDED from C:\Users\qweas\Desktop\ZprogrammerTool\app\src\main\AndroidManifest.xml:42:13-44
+uses-sdk
+INJECTED from C:\Users\qweas\Desktop\ZprogrammerTool\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.0.0] C:\Users\qweas\Desktop\ZprogrammerTool\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\qweas\Desktop\ZprogrammerTool\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\qweas\Desktop\ZprogrammerTool\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.melnykov:floatingactionbutton:1.3.0] C:\Users\qweas\Desktop\ZprogrammerTool\app\build\intermediates\exploded-aar\com.melnykov\floatingactionbutton\1.3.0\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:recyclerview-v7:21.0.3] C:\Users\qweas\Desktop\ZprogrammerTool\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\qweas\Desktop\ZprogrammerTool\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:23.0.0] C:\Users\qweas\Desktop\ZprogrammerTool\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [jp.wasabeef:recyclerview-animators:1.2.2] C:\Users\qweas\Desktop\ZprogrammerTool\app\build\intermediates\exploded-aar\jp.wasabeef\recyclerview-animators\1.2.2\AndroidManifest.xml:8:5-10:41
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] C:\Users\qweas\Desktop\ZprogrammerTool\app\build\intermediates\exploded-aar\com.balysv.materialmenu\material-menu-toolbar\1.5.4\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:23.0.0] C:\Users\qweas\Desktop\ZprogrammerTool\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\qweas\Desktop\ZprogrammerTool\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] C:\Users\qweas\Desktop\ZprogrammerTool\app\build\intermediates\exploded-aar\com.balysv.materialmenu\material-menu\1.5.4\AndroidManifest.xml:8:5-10:41
+MERGED from [de.psdev.licensesdialog:licensesdialog:1.8.0] C:\Users\qweas\Desktop\ZprogrammerTool\app\build\intermediates\exploded-aar\de.psdev.licensesdialog\licensesdialog\1.8.0\AndroidManifest.xml:23:5-25:41
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\qweas\Desktop\ZprogrammerTool\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.0] C:\Users\qweas\Desktop\ZprogrammerTool\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\qweas\Desktop\ZprogrammerTool\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.github.paolorotolo:appintro:3.2.0] C:\Users\qweas\Desktop\ZprogrammerTool\app\build\intermediates\exploded-aar\com.github.paolorotolo\appintro\3.2.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\qweas\Desktop\ZprogrammerTool\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.0] C:\Users\qweas\Desktop\ZprogrammerTool\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\qweas\Desktop\ZprogrammerTool\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.tencent.bugly:crashreport:1.2.3.8] C:\Users\qweas\Desktop\ZprogrammerTool\app\build\intermediates\exploded-aar\com.tencent.bugly\crashreport\1.2.3.8\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		INJECTED from C:\Users\qweas\Desktop\ZprogrammerTool\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\qweas\Desktop\ZprogrammerTool\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\qweas\Desktop\ZprogrammerTool\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\qweas\Desktop\ZprogrammerTool\app\src\main\AndroidManifest.xml
+activity#android.support.v7.widget.TestActivity
+ADDED from [com.android.support:recyclerview-v7:21.0.3] C:\Users\qweas\Desktop\ZprogrammerTool\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\AndroidManifest.xml:18:9-115
+	android:label
+		ADDED from [com.android.support:recyclerview-v7:21.0.3] C:\Users\qweas\Desktop\ZprogrammerTool\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\AndroidManifest.xml:18:19-59
+	android:name
+		ADDED from [com.android.support:recyclerview-v7:21.0.3] C:\Users\qweas\Desktop\ZprogrammerTool\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\AndroidManifest.xml:18:60-113

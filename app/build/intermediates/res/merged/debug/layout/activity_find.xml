@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/theme"
+        android:theme="@style/MyToolBarStyle" />
+
+    <!--<RelativeLayout
+        android:id="@+id/findRelativeLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ProgressBar
+            style="?android:attr/progressBarStyleLarge"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true" />
+
+    </RelativeLayout>
+	-->
+
+    <!--        <ScrollView
+                android:layout_width="fill_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:scrollbarThumbVertical="@drawable/gdt_bg">-->
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/background_light"
+        android:transitionName="element_bg">
+
+        <!--        <com.zprogrammer.tool.view.TextEditorView
+                    android:id="@+id/findTextView1"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@null"
+                    android:editable="false"
+                    android:textIsSelectable="true"
+                    android:textSize="10sp"
+                    android:visibility="gone" />-->
+        <com.editor.text.ScrollViewText
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <com.editor.text.HorScrollViewText
+                android:id="@+id/horScrollViewText"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scrollbars="none">
+
+                <com.editor.text.CodeEditor
+                    android:id="@+id/codeEditor"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <com.editor.text.TextEditorView
+                        android:id="@+id/textEditorView"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@null"
+                        android:editable="false"
+                        android:textIsSelectable="true"
+                        android:textSize="12sp"
+                        android:visibility="gone" />
+                </com.editor.text.CodeEditor>
+
+            </com.editor.text.HorScrollViewText>
+        </com.editor.text.ScrollViewText>
+
+    </FrameLayout>
+
+    <!--        </ScrollView>-->
+
+</LinearLayout>
+
+<!-- From: file:/C:/Users/qweas/Desktop/ZprogrammerTool/app/src/main/res/layout/activity_find.xml -->
